@@ -7,7 +7,7 @@ The following is a concise Intro to Programming course that's found in a college
 A command-line version of the compiler and any text editor is the only requirement. An IDE is not required but it is recommended to obtain Kotlin by installing the [Intellij IDEA](https://www.jetbrains.com/idea/download/index.html) as it is the easiest method to install, write, and run Kotlin code.
 
 ## Course Outline
- 00. [Getting Started](0-getting-started.md)
+ 00. [Getting Started](0_getting_started.md)
  01.  Output
  02.  Variables, Input, Arithmetic
  03.  Examples with input, output, variables, and arithmetic.
