@@ -1,5 +1,5 @@
 # Getting started with Kotlin
 
-## Course Outline
+## Getting started
 
-
+Obtain
