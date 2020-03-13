@@ -17,25 +17,25 @@ A command-line version of the compiler and any text editor is the only requireme
  07.  For loops.
  08.  Nested loops, examples
  09.  Examples of nested loops
- -  Functions, calling functions
- -  Functions, writing functions, header, block
- -  Midterm 1 in RO-230
- -  Examples of functions
- -  Reference parameters, examples
- -  Recursion
- -  Examples of recursion
- -  Arrays
- -  Examples using arrays
- -  2-dimensional arrays,
- -  Arrays as function parameters
- -  Examples using arrays and functions
- -  Examples using arrays, functions, and recursion
- -  Strings and characters
- -  Midterm 2 in RO-230
- -  Examples using strings and characters
- -  Files and arguments to main
- -  ++, break, continue
- -  Final Exam
+ 10.  Functions, calling functions
+ 11.  Functions, writing functions, header, block
+ 12.  Midterm 1
+ 13.  Examples of functions
+ 14.  Reference parameters, examples
+ 15.  Recursion
+ 16.  Examples of recursion
+ 17.  Arrays
+ 18.  Examples using arrays
+ 19.  2-dimensional arrays
+ 20.  Arrays as function parameters
+ 21.  Examples using arrays and functions
+ 22.  Examples using arrays, functions, and recursion
+ 23.  Strings and characters
+ 24.  Midterm 2
+ 25.  Examples using strings and characters
+ 26.  Files and arguments to main
+ 27.  ++, break, continue
+ 28.  Final Exam
 
 ## Course Layout
 This course is split into three sections:
@@ -50,7 +50,7 @@ Practice problem solutions are found in a separate directory and should be used 
 ## Formatting:
 Anything in **bold** should not be skimmed or ignored. It'll typically refer to vocabulary or anything otherwise critical.
 
-Anything with a `subtle highlight` is typically a function, class, global variable, or anything else technical that is worth highlighting.
+Anything with a `subtle highlight` is typically a function, class, variable, or anything else technical that is worth highlighting.
 ```
 Multiline code snippets
 will have a body-wide
