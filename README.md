@@ -43,8 +43,19 @@ This course is split into three sections:
 1. Description
 2. Example code
 3. Practice problems
+4. Final Summary
 
 Practice problem solutions are found in a separate directory and should be used to verify work.
+
+## Formatting:
+Anything in **bold** should not be skimmed or ignored. It'll typically refer to vocabulary or anything otherwise critical.
+
+Anything with a `subtle highlight` is typically a function, class, global variable, or anything else technical that is worth highlighting.
+```
+Multiline code snippets
+will have a body-wide
+highlight for improved readability.
+```
 
 # Final Note
 Practice makes perfect. If you're feeling burnt out or can't manage a proper solution, it's **OK** to search for it. If the first few links cannot give you a good answer within the first few moments, that's **OK** too. Don't give up; don't be afraid to sleuth through documentation and resources. Mentally reward yourself for your progress.

@@ -14,10 +14,45 @@ The following code is your first Kotlin program: `Hello World`.
  }
 ```
 
-This is all that's required to print **hello** in your terminal. Let's break down its anatomy:
+This is all that's required to print **hello** in your terminal. This code snippet has components to be mindful of. Let's break down its anatomy:
+
+### The print function and its argument
+ ```
+ println("hello")
+ ```
+This line has two components: `println()` is a **function**. A function is a callable command in code that has a specific purpose; and in this case, it will print text to your terminal. There are many built-in functions available in Kotlin and this is the first one to learn.
+
+Any information passed *to the function* is called its **argument(s)** and is placed inside the function's `()` parentheses. In this instance, it has only one argument: A quote of `"Hello"`.
+
+One note about `"hello"`: This is NOT the same as `hello`. The `" "` quotations are required as this is a `string` datatype. Datatypes is an upcoming topic to explain this in more detail.
+
 
 ### The main function
 ```
 fun main() {
 }
 ```
+The **main() function** is special type of function that is required for any Kotlin program to run. This is the main point of entry and where the beginning of your code begins. Eventually your code will reside in more than one file and these files will have multiple functions.
+
+Notice how `main()` is preceded by `fun`, and succeeded by `{`. This is a format requirement that will be taken for granted for now and will be properly explained during the functions topic.
+
+Any code you wish to run must be inside the `{}` curly brackets. All code inside the brackets are considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and reads until the end the of bracket. Code is also read from left to right.
+
+#### Example
+```
+fun main() {
+  println("hello")
+  println("goodbye")
+}
+```
+Output:
+```
+hello
+goodbye
+```
+
+While this may appear obvious, this must be stressed during the next topic.
+
+## Closing notes
+
+If you've made it through this far, good work! Never underestimate your personal progression. As a reminder, do pay attention to anything bold or highlighted as this information will remain relevant.
