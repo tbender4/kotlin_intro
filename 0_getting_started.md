@@ -36,7 +36,7 @@ The **main() function** is special type of function that is required for any Kot
 
 Notice how `main()` is preceded by `fun`, and succeeded by `{`. This is a format requirement that will be taken for granted for now and will be properly explained during the functions topic.
 
-Any code you wish to run must be inside the `{}` curly brackets. All code inside the brackets are considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and reads until the end the of bracket. Code is also read from left to right.
+Any code you wish to run must be inside the `{}` curly brackets. All code inside the brackets are considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and goes line-by-line until the end bracket is reached. Code is also read from left to right.
 
 #### Example
 ```
@@ -51,7 +51,7 @@ hello
 goodbye
 ```
 
-While this may appear obvious, this must be stressed during the next topic.
+Notice how `"hello"` was printed before `"goodbye"`. While this may appear obvious, this must be stressed during the next topic.
 
 ## Closing notes
 
