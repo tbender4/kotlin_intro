@@ -8,15 +8,15 @@ A command-line version of the compiler and any text editor is the only requireme
 
 ## Course Outline
  00. [Getting Started](0-getting-started.md)
- -  Output
- -  Variables, Input, Arithmetic
- -  Examples with input, output, variables, and arithmetic.
- -  Decisions: if, if-else, compound statements
- -  Repeated decisions: while
- -  While loops, boolean operators: negation, and, or.
- -  For loops.
- -  Nested loops, examples
- -  Examples of nested loops
+ 01.  Output
+ 02.  Variables, Input, Arithmetic
+ 03.  Examples with input, output, variables, and arithmetic.
+ 04.  Decisions: if, if-else, compound statements
+ 05.  Repeated decisions: while
+ 06.  While loops, boolean operators: negation, and, or.
+ 07.  For loops.
+ 08.  Nested loops, examples
+ 09.  Examples of nested loops
  -  Functions, calling functions
  -  Functions, writing functions, header, block
  -  Midterm 1 in RO-230
