@@ -38,12 +38,12 @@ A command-line version of the compiler and any text editor is the only requireme
  28.  Final Exam
 
 ## Course Layout
-This course is split into three sections:
+Each topic will be typically split into four sections:
 
 1. Description
 2. Example code
 3. Practice problems
-4. Final Summary
+4. Final Notes
 
 Practice problem solutions are found in a separate directory and should be used to verify work.
 
