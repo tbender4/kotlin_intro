@@ -26,17 +26,18 @@ Any information passed *to the function* is called its **argument(s)** and is pl
 
 One note about `"hello"`: This is NOT the same as `hello`. The `" "` quotations are required as this is a `string` datatype. Datatypes is an upcoming topic to explain this in more detail.
 
+**In summary**: `println("my text")` is a function that will print anything inside its `()` brackets onto your display.
 
 ### The main function
 ```
 fun main() {
 }
 ```
-The **main() function** is special type of function that is required for any Kotlin program to run. This is the main point of entry and where the beginning of your code begins. Eventually your code will reside in more than one file and these files will have multiple functions.
+The **main() function** is special type of function that is required for any Kotlin program to run. This is explicitly where your program starts. For now all of your code will be written inside `main()`. Eventually, your code will reside in more than one file and these files will have multiple functions.
 
-Notice how `main()` is preceded by `fun`, and succeeded by `{`. This is a format requirement that will be taken for granted for now and will be properly explained during the functions topic.
+Take note to how `main()` is preceded by `fun`, and succeeded by `{`. This is a format requirement that will be taken for granted for now and will be properly explained during the functions topic.
 
-Any code you wish to run must be inside the `{}` curly brackets. All code inside the brackets are considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and goes line-by-line until the end bracket is reached. Code is also read from left to right.
+**Any code you wish to run must be inside the `{}` curly brackets.** Code after the ending `}`bracket will not be considered. All code inside this `{}` brackets is considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and goes line-by-line until the end bracket is reached. Code is also read from left to right.
 
 #### Example
 ```
@@ -51,8 +52,13 @@ hello
 goodbye
 ```
 
-Notice how `"hello"` was printed before `"goodbye"`. While this may appear obvious, this must be stressed during the next topic.
+Notice how `"hello"` was printed before `"goodbye"`. While this may appear obvious, this must be stressed during the next couple of topics.
 
 ## Closing notes
 
 If you've made it through this far, good work! Never underestimate your personal progression. As a reminder, do pay attention to anything bold or highlighted as this information will remain relevant.
+
+---
+
+ - Next Topic: [01. Output](1_output.md)
+ - Jump Back to [Course Outline](README.md).

@@ -7,8 +7,9 @@ The following is a concise Intro to Programming course that's found in a college
 A command-line version of the compiler and any text editor is the only requirement. An IDE is not required but it is recommended to obtain Kotlin by installing the [Intellij IDEA](https://www.jetbrains.com/idea/download/index.html) as it is the easiest method to install, write, and run Kotlin code.
 
 ## Course Outline
- 00. [Getting Started](0_getting_started.md)
- 01.  Output
+**The below links will direct to each topic.** This course is intended to be followed in **sequential** order. Any topics missing a link will arrive soon.
+ 00.  [Getting Started](0_getting_started.md)
+ 01.  [Output](1_output.md)
  02.  Variables, Input, Arithmetic
  03.  Examples with input, output, variables, and arithmetic.
  04.  Decisions: if, if-else, compound statements
@@ -38,7 +39,7 @@ A command-line version of the compiler and any text editor is the only requireme
  28.  Final Exam
 
 ## Course Layout
-Each topic will be typically split into four sections:
+Each topic will be loosely split into four sections:
 
 1. Description
 2. Example code
