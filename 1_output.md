@@ -31,7 +31,7 @@ Notice there is some unintended side effects.
 After `println()` is finished printing its argument, it will print a special **newline** character. This results in the next instance of printing to the screen to be on the line below.
 
 #### Example using println()
-```
+``` kotlin
 fun main() {
   println("hello")
   println("goodbye")
@@ -48,7 +48,7 @@ The second line, printing "goodbye", appears on a second line per the usage of `
 On the other hand, using `print()` instead will **not** add a newline after the print statement:
 
 ### Example using print()
-```
+``` kotlin
 fun main() {
   print("hello")
   print("goodbye")
@@ -65,7 +65,7 @@ As there was no `newline`, it appears in one line, or as one continuing word.
 Se are not limited to printing quotes of text. We can also print numbers just fine. This serves a short introduction to the next topic.
 
 ### Example
-```
+``` kotlin
 fun main() {
   print(5)
   print(" is my favorite number")
@@ -81,7 +81,7 @@ Take note of the intended blank character in the quote `" is my favorite charact
 
 *Write code that will print the following text. All numbers **must** be a true number, not part of a quote.*
 
-1. ```
+1. ``` 
 Hello
 Today is Thursday, the 5th
 ```

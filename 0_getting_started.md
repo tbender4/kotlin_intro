@@ -40,7 +40,7 @@ Take note to how `main()` is preceded by `fun`, and succeeded by `{`. This is a 
 **Any code you wish to run must be inside the `{}` curly brackets.** Code after the ending `}`bracket will not be considered. All code inside this `{}` brackets is considered part of `main()`. Inside the brackets the code will be read in a *top-down* manner. This means every line of code is executed starting from the top of the brackets and goes line-by-line until the end bracket is reached. Code is also read from left to right.
 
 #### Example
-```
+``` kotlin
 fun main() {
   println("hello")
   println("goodbye")
