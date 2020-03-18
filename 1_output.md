@@ -81,17 +81,18 @@ Output:
 
 *Write code that will print the following text. All numbers **must** be a true number, not part of a quote.*
 
-1. ```
+1.
+```
 Hello
 Today is Thursday, the 5th
 ```
-
-2. ```
+2.
+```
 Number of passengers: 6
 Number of seats: 5
 ```
-
-3. ```
+3.
+```
 5 4 2
 6 2 4
 ```
