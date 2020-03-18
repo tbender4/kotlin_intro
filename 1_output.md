@@ -62,33 +62,35 @@ As there was no `newline`, it appears in one line, or as one continuing word.
 
 ## Printing Numbers
 
-Se are not limited to printing quotes of text. We can also print numbers just fine. This serves a short introduction to the next topic.
+We are not limited to printing quotes of text. Print statements can also handle numbers. This serves a short introduction to the next topic.
 
 ### Example
 ``` kotlin
 fun main() {
   print(5)
-  print(" is my favorite number")
+  println(" is my favorite number")
 }
 ```
 Output:
 ```
 5 is my favorite number
 ```
-Take note of the intended blank character in the quote `" is my favorite character"`. This allows the output to have a space and can be read as a proper sentence.
+**Two things to note:** The first print statement has a **number** that successfully prints despite **not surrounded by quotes**. This is intended behavior and will have stronger applications in the next topic. The second print statement an intended blank character in the quote. This allows the output to have a space between the number and the quote so it can be humanly readable as a proper sentence.
 
 ## Practice Problems
 
 *Write code that will print the following text. All numbers **must** be a true number, not part of a quote.*
 
-1. ``` 
+1. ```
 Hello
 Today is Thursday, the 5th
 ```
+
 2. ```
 Number of passengers: 6
 Number of seats: 5
 ```
+
 3. ```
 5 4 2
 6 2 4
@@ -97,7 +99,7 @@ Number of seats: 5
 
 ## Closing notes
 
-Being familiar with the nuances of printing to the screen will be critical going forward as the near entirety of this course will involve printing information to the terminal. It is essential to understand this topic despite it being rather dull.
+Being familiar with the nuances of printing to the screen will be critical going forward as the near entirety of this course will involve printing information to the terminal. It is required to understand this topic despite being rather dull.
 
 ---
 
