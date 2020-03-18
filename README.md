@@ -61,3 +61,5 @@ highlight for improved readability.
 
 # Final Note
 Practice makes perfect. If you're feeling burnt out or can't manage a proper solution, it's **OK** to search for it. If the first few links cannot give you a good answer within the first few moments, that's **OK** too. Don't give up; don't be afraid to sleuth through documentation and resources. Mentally reward yourself for your progress.
+
+Please contact me for any suggestions or concerns.
