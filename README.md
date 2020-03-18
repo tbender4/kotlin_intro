@@ -8,6 +8,7 @@ A command-line version of the compiler and any text editor is the only requireme
 
 ## Course Outline
 **The below links will direct to each topic.** This course is intended to be followed in **sequential** order. Any topics missing a link will arrive soon.
+
  00.  [Getting Started](0_getting_started.md)
  01.  [Output](1_output.md)
  02.  Variables, Input, Arithmetic
